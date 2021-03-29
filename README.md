@@ -6,5 +6,6 @@
 - Storage: 250Gb SSD (SATA) | _256Gb NVMe (for windows)_
 
 
+
 ### SPECIAL THANKS TO:
 - @ZonMat
