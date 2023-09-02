@@ -9,3 +9,6 @@
 
 ### SPECIAL THANKS TO:
 - https://github.com/ZonMat
+
+
+p.s. i have deleted the serial number, MLB, SystemUUID and ROM values from the config.plist (PlatformInfo section) for security reasons 
